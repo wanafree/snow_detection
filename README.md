@@ -246,6 +246,5 @@ For example, if the estimated snow coverage exceeds a certain threshold, the sys
 
 ---
 
-## Author
 
-Shijie Yang
+
