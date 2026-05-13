@@ -1,0 +1,14 @@
+data/
+dataset/
+.idea/
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.ckpt
+save/
+checkpoint
+logs/
+runs/
+events.out.tfevents.*
